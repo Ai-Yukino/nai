@@ -1,6 +1,6 @@
 # `README.md` for [nai repo](https://github.com/Ai-Yukino/nai)
 
-Night mode LaTeX style presets similar to how my [yukino.ai](http://yukino.ai/) currently looks
+Night mode LaTeX style presets similar to how [yukino.ai](http://yukino.ai/) currently looks
 
 ---
 
