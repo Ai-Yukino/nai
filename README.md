@@ -21,3 +21,4 @@ TBA
 ## ❄ References
 
 - [Why use .sty files?](https://tex.stackexchange.com/a/91179)
+- [LaTeX/Creating Packages | Wikibooks](https://en.m.wikibooks.org/wiki/LaTeX/Creating_Packages)
