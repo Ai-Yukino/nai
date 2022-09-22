@@ -9,10 +9,10 @@ Night mode LaTeX style presets similar to how my [yukino.ai](http://yukino.ai/) 
 Import `nai.sty` in the header of your main `.tex` file, e.g.
 
 ```
-\input{nai.sty}
+\usepackage{nai.sty}
 ```
 
-If you're combining this theme with your own style presets or other tex templates (e.g. maybe `.sty` files for resumes), then things may conflict. I have not tested these presets in those cases, but please let me know if you have any issues!
+If you're combining this theme with your own style presets then things may conflict. I have not tested these presets in those cases, but please let me know if you have any issues!
 
 ## 🌸 Preview
 
