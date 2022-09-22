@@ -6,7 +6,7 @@ A night mode LaTeX style presets similar to how my [yukino.ai](http://yukino.ai/
 
 ## ❄ Usage
 
-Import `nai.tex` in the header of your main `.tex` file, e.g.
+Import `nai.sty` in the header of your main `.tex` file, e.g.
 
 ```
 \input{nai.sty}
@@ -17,3 +17,8 @@ If you're combining this theme with your own style presets or other tex template
 ## 🌸 Preview
 
 TBA
+
+## ❄ References
+
+- [Why use .sty files?](https://tex.stackexchange.com/a/91179)
+- [LaTeX/Creating Packages | Wikibooks](https://en.m.wikibooks.org/wiki/LaTeX/Creating_Packages)
