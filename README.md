@@ -17,3 +17,7 @@ If you're combining this theme with your own style presets or other tex template
 ## 🌸 Preview
 
 TBA
+
+## ❄ References
+
+- [Why use .sty files?](https://tex.stackexchange.com/a/91179)
